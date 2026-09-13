@@ -1,0 +1,33 @@
+/*
+ * Zen Browser custom CSS
+ * Prerequisite: https://docs.zen-browser.app/guides/live-editing
+ */
+
+* {
+    font-family: "JetBrains Mono", monospace !important;
+}
+
+/* Hide elements */
+#zen-sidebar-top-buttons,
+#zen-sidebar-foot-buttons,
+#zen-overflow-extensions-list,
+#zen-essentials,
+#zen-media-controls-toolbar,
+.zen-current-workspace-indicator,
+.pinned-tabs-container-separator {
+    visibility: collapse;
+}
+
+/*
+Hide Navbar (URL bar). Use absolute position to move it alway
+from sidebar while keep it visible when floating (Ctrl+T, Ctrl+L).
+*/
+#nav-bar {
+    position: absolute !important;
+    margin-top: -99px;
+}
+
+/* Adjust sidebar top padding */
+#titlebar {
+    padding-top: 4px !important;
+}

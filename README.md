@@ -63,4 +63,6 @@ Here's short version of _[userChrome.css](userChrome.css)_ with comments removed
 
 ### _**Hide window controls**_ 🗕 🗖 🗙
 
+<img height="300" src="imgs/hide-controls.png" />
+
 Enter `about:config` and set `zen.view.experimental-no-window-controls` to `true`.

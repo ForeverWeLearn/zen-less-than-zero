@@ -1,8 +1,8 @@
 <h1 align="center">
-    <strong><i>Zen < 0</i></strong>
+    <strong><i>Zen &lt; 0</i></strong>
 </h1>
 
-<p align="center"><i>It's empty and it is.</i></p>
+<p align="center"><i>Custom CSS for Zen Browser. It's empty so it is.</i></p>
 
 <img align="center" src="imgs/zen-custom.png" />
 
@@ -12,21 +12,21 @@
 
 &nbsp;
 
-<p align="center"><i>Zen is minimal by default. But we can move one step further 🤓</i></p>
+<p align="center"><i>Zen is minimal by default. But we can move one step further</i> 🤓</p>
 
 <img align="center" src="imgs/infographic.png" />
 
 &nbsp;
 
-## ***Motivation*** 🫸
+## _**Motivation**_ 🫸
 
 Modern features and dense UI not quite interesting. So hide it.
 
 &nbsp;
 
-## ***Quick setup*** 🏃‍➡️
+## _**Quick setup**_ 🏃‍➡️
 
-Here's short version of [userChrome.css](userChrome.css) with comments removed. Copy and paste it to yours. DONE!
+Here's short version of _[userChrome.css](userChrome.css)_ with comments removed. Copy and paste it to yours. _**DONE!**_
 
 ```css
 #zen-sidebar-top-buttons,
@@ -51,11 +51,8 @@ Here's short version of [userChrome.css](userChrome.css) with comments removed. 
 
 &nbsp;
 
-## ***Full setup*** 🧭
+## _**Full setup**_ 🧭
 
-**Step 1:** Turn on Zen *live editing* feature.
+**Step 1:** Turn on _[Live Editing](https://docs.zen-browser.app/guides/live-editing)_ feature.
 
-Follow the guide https://docs.zen-browser.app/guides/live-editing
-
-**Step 2:** Copy it [userChrome.css](userChrome.css) and done.
-
+**Step 2:** Copy it _[userChrome.css](userChrome.css)_ and done.

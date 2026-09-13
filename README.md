@@ -56,3 +56,11 @@ Here's short version of _[userChrome.css](userChrome.css)_ with comments removed
 **Step 1:** Turn on _[Live Editing](https://docs.zen-browser.app/guides/live-editing)_ feature.
 
 **Step 2:** Copy it _[userChrome.css](userChrome.css)_ and done.
+
+&nbsp;
+
+## _**Extra**_ 🎁
+
+### _**Hide window controls**_ 🗕 🗖 🗙
+
+Enter `about:config` and set `zen.view.experimental-no-window-controls` to `true`.
